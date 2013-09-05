@@ -1,0 +1,14 @@
+{
+  "manifest_version": 2,
+
+  "name": "PassHash",
+  "description": "Implement password hashing for Chrome, similar to Firefox extension",
+  "version": "1.0",
+
+  "permissions": [ ],
+  "browser_action": {
+    "default_icon": "skin/logo.png",
+    "default_popup": "demo/index.html"
+  }
+}
+
